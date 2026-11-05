@@ -7,6 +7,7 @@ import {
   type DeckSettings,
   type Rating,
   type ReviewLog,
+  type SchedulingState,
 } from '../types';
 import { uid } from '../lib/id';
 import { startOfDay } from '../lib/dates';
@@ -62,14 +63,27 @@ export function normalizeContent(c: CardContent): CardContent {
 }
 
 export async function addCards(deckId: string, contents: CardContent[]): Promise<number> {
+  return addCardsWithState(
+    deckId,
+    contents.map((content) => ({ content })),
+  );
+}
+
+export interface NewCard {
+  content: CardContent;
+  /** Scheduling to start from (e.g. progress imported from Anki). Defaults to a new card. */
+  sched?: (settings: DeckSettings, now: number) => SchedulingState;
+}
+
+export async function addCardsWithState(deckId: string, items: NewCard[]): Promise<number> {
   const deck = await db.decks.get(deckId);
   if (!deck) throw new Error('Колода не найдена');
   const now = Date.now();
-  const cards: Card[] = contents.map((c, i) => ({
+  const cards: Card[] = items.map(({ content, sched }, i) => ({
     id: uid(),
     deckId,
-    ...normalizeContent(c),
-    ...newSchedulingState(deck.settings, now),
+    ...normalizeContent(content),
+    ...(sched ? sched(deck.settings, now) : newSchedulingState(deck.settings, now)),
     createdAt: now + i, // keep import order stable
     updatedAt: now,
   }));
