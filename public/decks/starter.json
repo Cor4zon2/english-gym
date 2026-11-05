@@ -1,0 +1,1086 @@
+{
+ "name": "Starter: B1–B2",
+ "description": "60 полезных слов и фразовых глаголов для старта",
+ "cards": [
+  {
+   "word": "meticulous",
+   "translation": "дотошный, скрупулёзный",
+   "partOfSpeech": "adj.",
+   "transcription": "/məˈtɪkjələs/",
+   "definition": "showing great attention to detail",
+   "examples": [
+    "She kept meticulous records of every transaction."
+   ],
+   "collocations": [
+    "meticulous attention",
+    "meticulous planning"
+   ],
+   "tags": [
+    "starter",
+    "b1-b2"
+   ]
+  },
+  {
+   "word": "ambiguous",
+   "translation": "двусмысленный, неоднозначный",
+   "partOfSpeech": "adj.",
+   "transcription": "/æmˈbɪɡjuəs/",
+   "definition": "having more than one possible meaning",
+   "examples": [
+    "The wording of the contract is ambiguous."
+   ],
+   "collocations": [
+    "ambiguous answer",
+    "deliberately ambiguous"
+   ],
+   "tags": [
+    "starter",
+    "b1-b2"
+   ]
+  },
+  {
+   "word": "reluctant",
+   "translation": "неохотный, нерасположенный",
+   "partOfSpeech": "adj.",
+   "transcription": "/rɪˈlʌktənt/",
+   "definition": "not wanting to do something",
+   "examples": [
+    "He was reluctant to admit his mistake."
+   ],
+   "collocations": [
+    "reluctant to admit",
+    "reluctant agreement"
+   ],
+   "tags": [
+    "starter",
+    "b1-b2"
+   ]
+  },
+  {
+   "word": "thorough",
+   "translation": "тщательный, основательный",
+   "partOfSpeech": "adj.",
+   "transcription": "/ˈθʌrə/",
+   "definition": "complete and careful about every detail",
+   "examples": [
+    "The police carried out a thorough investigation."
+   ],
+   "collocations": [
+    "thorough investigation",
+    "thorough knowledge"
+   ],
+   "tags": [
+    "starter",
+    "b1-b2"
+   ]
+  },
+  {
+   "word": "feasible",
+   "translation": "осуществимый, реальный",
+   "partOfSpeech": "adj.",
+   "transcription": "/ˈfiːzəbl/",
+   "definition": "possible and likely to be achieved",
+   "examples": [
+    "It's not feasible to finish the project by Friday."
+   ],
+   "collocations": [
+    "economically feasible",
+    "feasible option"
+   ],
+   "tags": [
+    "starter",
+    "b1-b2"
+   ]
+  },
+  {
+   "word": "inevitable",
+   "translation": "неизбежный",
+   "partOfSpeech": "adj.",
+   "transcription": "/ɪnˈevɪtəbl/",
+   "definition": "certain to happen and impossible to avoid",
+   "examples": [
+    "Some delays are inevitable on a project this size."
+   ],
+   "collocations": [
+    "inevitable consequence",
+    "seem inevitable"
+   ],
+   "tags": [
+    "starter",
+    "b1-b2"
+   ]
+  },
+  {
+   "word": "reliable",
+   "translation": "надёжный",
+   "partOfSpeech": "adj.",
+   "transcription": "/rɪˈlaɪəbl/",
+   "definition": "that can be trusted to do something well",
+   "examples": [
+    "We need a reliable source of energy."
+   ],
+   "collocations": [
+    "reliable source",
+    "reliable information"
+   ],
+   "tags": [
+    "starter",
+    "b1-b2"
+   ]
+  },
+  {
+   "word": "significant",
+   "translation": "значительный, важный",
+   "partOfSpeech": "adj.",
+   "transcription": "/sɪɡˈnɪfɪkənt/",
+   "definition": "large or important enough to have an effect",
+   "examples": [
+    "There has been a significant increase in prices."
+   ],
+   "collocations": [
+    "significant increase",
+    "statistically significant"
+   ],
+   "tags": [
+    "starter",
+    "b1-b2"
+   ]
+  },
+  {
+   "word": "sustainable",
+   "translation": "устойчивый, экологичный",
+   "partOfSpeech": "adj.",
+   "transcription": "/səˈsteɪnəbl/",
+   "definition": "able to continue without damaging the environment",
+   "examples": [
+    "The city is investing in sustainable transport."
+   ],
+   "collocations": [
+    "sustainable development",
+    "sustainable growth"
+   ],
+   "tags": [
+    "starter",
+    "b1-b2"
+   ]
+  },
+  {
+   "word": "vague",
+   "translation": "смутный, расплывчатый",
+   "partOfSpeech": "adj.",
+   "transcription": "/veɪɡ/",
+   "definition": "not clear in a person's mind or not detailed",
+   "examples": [
+    "I have only a vague memory of that day."
+   ],
+   "collocations": [
+    "vague idea",
+    "vague answer"
+   ],
+   "tags": [
+    "starter",
+    "b1-b2"
+   ]
+  },
+  {
+   "word": "eager",
+   "translation": "жаждущий, стремящийся",
+   "partOfSpeech": "adj.",
+   "transcription": "/ˈiːɡə(r)/",
+   "definition": "very interested and excited by something you want to do",
+   "examples": [
+    "The students were eager to learn."
+   ],
+   "collocations": [
+    "eager to learn",
+    "eager for success"
+   ],
+   "tags": [
+    "starter",
+    "b1-b2"
+   ]
+  },
+  {
+   "word": "obvious",
+   "translation": "очевидный",
+   "partOfSpeech": "adj.",
+   "transcription": "/ˈɒbviəs/",
+   "definition": "easy to see or understand",
+   "examples": [
+    "It was obvious that she was upset."
+   ],
+   "collocations": [
+    "obvious reason",
+    "painfully obvious"
+   ],
+   "tags": [
+    "starter",
+    "b1-b2"
+   ]
+  },
+  {
+   "word": "crucial",
+   "translation": "решающий, критически важный",
+   "partOfSpeech": "adj.",
+   "transcription": "/ˈkruːʃl/",
+   "definition": "extremely important",
+   "examples": [
+    "Sleep is crucial for good health."
+   ],
+   "collocations": [
+    "crucial role",
+    "crucial decision"
+   ],
+   "tags": [
+    "starter",
+    "b1-b2"
+   ]
+  },
+  {
+   "word": "genuine",
+   "translation": "подлинный, искренний",
+   "partOfSpeech": "adj.",
+   "transcription": "/ˈdʒenjuɪn/",
+   "definition": "real; sincere and honest",
+   "examples": [
+    "She showed genuine interest in my work."
+   ],
+   "collocations": [
+    "genuine interest",
+    "genuine concern"
+   ],
+   "tags": [
+    "starter",
+    "b1-b2"
+   ]
+  },
+  {
+   "word": "overwhelming",
+   "translation": "подавляющий, ошеломляющий",
+   "partOfSpeech": "adj.",
+   "transcription": "/ˌəʊvəˈwelmɪŋ/",
+   "definition": "very great or very strong",
+   "examples": [
+    "The response to the campaign was overwhelming."
+   ],
+   "collocations": [
+    "overwhelming majority",
+    "overwhelming evidence"
+   ],
+   "tags": [
+    "starter",
+    "b1-b2"
+   ]
+  },
+  {
+   "word": "efficient",
+   "translation": "эффективный, продуктивный",
+   "partOfSpeech": "adj.",
+   "transcription": "/ɪˈfɪʃnt/",
+   "definition": "doing something well without wasting time or energy",
+   "examples": [
+    "We need a more efficient way of working."
+   ],
+   "collocations": [
+    "energy efficient",
+    "highly efficient"
+   ],
+   "tags": [
+    "starter",
+    "b1-b2"
+   ]
+  },
+  {
+   "word": "acquire",
+   "translation": "приобретать, овладевать",
+   "partOfSpeech": "v.",
+   "transcription": "/əˈkwaɪə(r)/",
+   "definition": "to gain something by your own efforts or ability",
+   "examples": [
+    "Children acquire language very quickly."
+   ],
+   "collocations": [
+    "acquire skills",
+    "acquire knowledge"
+   ],
+   "tags": [
+    "starter",
+    "b1-b2"
+   ]
+  },
+  {
+   "word": "achieve",
+   "translation": "достигать",
+   "partOfSpeech": "v.",
+   "transcription": "/əˈtʃiːv/",
+   "definition": "to succeed in reaching a goal by effort",
+   "examples": [
+    "She achieved her goal of running a marathon."
+   ],
+   "collocations": [
+    "achieve a goal",
+    "achieve success"
+   ],
+   "tags": [
+    "starter",
+    "b1-b2"
+   ]
+  },
+  {
+   "word": "adapt",
+   "translation": "приспосабливаться, адаптировать",
+   "partOfSpeech": "v.",
+   "transcription": "/əˈdæpt/",
+   "definition": "to change your behaviour to deal with a new situation",
+   "examples": [
+    "It took him a while to adapt to the new climate."
+   ],
+   "collocations": [
+    "adapt to change",
+    "adapt quickly"
+   ],
+   "tags": [
+    "starter",
+    "b1-b2"
+   ]
+  },
+  {
+   "word": "assume",
+   "translation": "предполагать, допускать",
+   "partOfSpeech": "v.",
+   "transcription": "/əˈsjuːm/",
+   "definition": "to think that something is true without proof",
+   "examples": [
+    "I assume you've already heard the news."
+   ],
+   "collocations": [
+    "safely assume",
+    "wrongly assume"
+   ],
+   "tags": [
+    "starter",
+    "b1-b2"
+   ]
+  },
+  {
+   "word": "cope",
+   "translation": "справляться",
+   "partOfSpeech": "v.",
+   "transcription": "/kəʊp/",
+   "definition": "to deal successfully with something difficult",
+   "examples": [
+    "She coped well with the pressure of the exam."
+   ],
+   "collocations": [
+    "cope with stress",
+    "struggle to cope"
+   ],
+   "tags": [
+    "starter",
+    "b1-b2"
+   ]
+  },
+  {
+   "word": "deny",
+   "translation": "отрицать",
+   "partOfSpeech": "v.",
+   "transcription": "/dɪˈnaɪ/",
+   "definition": "to say that something is not true",
+   "examples": [
+    "He denied breaking the window."
+   ],
+   "collocations": [
+    "deny an allegation",
+    "strongly deny"
+   ],
+   "tags": [
+    "starter",
+    "b1-b2"
+   ]
+  },
+  {
+   "word": "emphasize",
+   "translation": "подчёркивать",
+   "partOfSpeech": "v.",
+   "transcription": "/ˈemfəsaɪz/",
+   "definition": "to give special importance to something",
+   "examples": [
+    "The teacher emphasized the need for practice."
+   ],
+   "collocations": [
+    "emphasize the importance",
+    "emphasize the need"
+   ],
+   "tags": [
+    "starter",
+    "b1-b2"
+   ]
+  },
+  {
+   "word": "encourage",
+   "translation": "поощрять, поддерживать",
+   "partOfSpeech": "v.",
+   "transcription": "/ɪnˈkʌrɪdʒ/",
+   "definition": "to give somebody support or confidence",
+   "examples": [
+    "My parents always encouraged me to read."
+   ],
+   "collocations": [
+    "strongly encourage",
+    "encourage participation"
+   ],
+   "tags": [
+    "starter",
+    "b1-b2"
+   ]
+  },
+  {
+   "word": "estimate",
+   "translation": "оценивать (приблизительно)",
+   "partOfSpeech": "v.",
+   "transcription": "/ˈestɪmeɪt/",
+   "definition": "to judge the size or value of something approximately",
+   "examples": [
+    "They estimated the cost at about $5,000."
+   ],
+   "collocations": [
+    "roughly estimate",
+    "estimated cost"
+   ],
+   "tags": [
+    "starter",
+    "b1-b2"
+   ]
+  },
+  {
+   "word": "hesitate",
+   "translation": "колебаться, сомневаться",
+   "partOfSpeech": "v.",
+   "transcription": "/ˈhezɪteɪt/",
+   "definition": "to be slow to act or speak because you feel uncertain",
+   "examples": [
+    "Don't hesitate to contact me if you have questions."
+   ],
+   "collocations": [
+    "don't hesitate",
+    "hesitate for a moment"
+   ],
+   "tags": [
+    "starter",
+    "b1-b2"
+   ]
+  },
+  {
+   "word": "improve",
+   "translation": "улучшать(ся)",
+   "partOfSpeech": "v.",
+   "transcription": "/ɪmˈpruːv/",
+   "definition": "to become or make something better",
+   "examples": [
+    "Her English has improved a lot this year."
+   ],
+   "collocations": [
+    "improve dramatically",
+    "improve the quality"
+   ],
+   "tags": [
+    "starter",
+    "b1-b2"
+   ]
+  },
+  {
+   "word": "maintain",
+   "translation": "поддерживать, сохранять",
+   "partOfSpeech": "v.",
+   "transcription": "/meɪnˈteɪn/",
+   "definition": "to make something continue at the same level",
+   "examples": [
+    "It's important to maintain a healthy weight."
+   ],
+   "collocations": [
+    "maintain contact",
+    "maintain a balance"
+   ],
+   "tags": [
+    "starter",
+    "b1-b2"
+   ]
+  },
+  {
+   "word": "neglect",
+   "translation": "пренебрегать, запускать",
+   "partOfSpeech": "v.",
+   "transcription": "/nɪˈɡlekt/",
+   "definition": "to fail to take care of somebody or something",
+   "examples": [
+    "He neglected his studies and failed the exam."
+   ],
+   "collocations": [
+    "neglect your health",
+    "badly neglected"
+   ],
+   "tags": [
+    "starter",
+    "b1-b2"
+   ]
+  },
+  {
+   "word": "persuade",
+   "translation": "убеждать, уговаривать",
+   "partOfSpeech": "v.",
+   "transcription": "/pəˈsweɪd/",
+   "definition": "to make somebody do something by giving good reasons",
+   "examples": [
+    "I persuaded her to come to the party."
+   ],
+   "collocations": [
+    "persuade someone to do",
+    "try to persuade"
+   ],
+   "tags": [
+    "starter",
+    "b1-b2"
+   ]
+  },
+  {
+   "word": "postpone",
+   "translation": "откладывать, переносить",
+   "partOfSpeech": "v.",
+   "transcription": "/pəˈspəʊn/",
+   "definition": "to arrange for an event to take place at a later time",
+   "examples": [
+    "The match was postponed because of the rain."
+   ],
+   "collocations": [
+    "postpone a meeting",
+    "indefinitely postponed"
+   ],
+   "tags": [
+    "starter",
+    "b1-b2"
+   ]
+  },
+  {
+   "word": "pursue",
+   "translation": "преследовать (цель), заниматься",
+   "partOfSpeech": "v.",
+   "transcription": "/pəˈsjuː/",
+   "definition": "to do something or try to achieve something over time",
+   "examples": [
+    "She decided to pursue a career in law."
+   ],
+   "collocations": [
+    "pursue a career",
+    "pursue a goal"
+   ],
+   "tags": [
+    "starter",
+    "b1-b2"
+   ]
+  },
+  {
+   "word": "recognize",
+   "translation": "узнавать, признавать",
+   "partOfSpeech": "v.",
+   "transcription": "/ˈrekəɡnaɪz/",
+   "definition": "to know who or what somebody/something is",
+   "examples": [
+    "I didn't recognize him with his new haircut."
+   ],
+   "collocations": [
+    "widely recognized",
+    "recognize the importance"
+   ],
+   "tags": [
+    "starter",
+    "b1-b2"
+   ]
+  },
+  {
+   "word": "rely",
+   "translation": "полагаться, зависеть",
+   "partOfSpeech": "v.",
+   "transcription": "/rɪˈlaɪ/",
+   "definition": "to need or depend on somebody/something",
+   "examples": [
+    "You can rely on me to keep your secret."
+   ],
+   "collocations": [
+    "rely heavily on",
+    "rely on someone"
+   ],
+   "tags": [
+    "starter",
+    "b1-b2"
+   ]
+  },
+  {
+   "word": "struggle",
+   "translation": "бороться, с трудом справляться",
+   "partOfSpeech": "v.",
+   "transcription": "/ˈstrʌɡl/",
+   "definition": "to try very hard to do something difficult",
+   "examples": [
+    "Many families struggle to pay their bills."
+   ],
+   "collocations": [
+    "struggle to cope",
+    "struggle with"
+   ],
+   "tags": [
+    "starter",
+    "b1-b2"
+   ]
+  },
+  {
+   "word": "tackle",
+   "translation": "браться за решение, бороться с",
+   "partOfSpeech": "v.",
+   "transcription": "/ˈtækl/",
+   "definition": "to make a determined effort to deal with a problem",
+   "examples": [
+    "The government must tackle unemployment."
+   ],
+   "collocations": [
+    "tackle a problem",
+    "tackle climate change"
+   ],
+   "tags": [
+    "starter",
+    "b1-b2"
+   ]
+  },
+  {
+   "word": "withdraw",
+   "translation": "снимать (деньги), отзывать",
+   "partOfSpeech": "v.",
+   "transcription": "/wɪðˈdrɔː/",
+   "definition": "to take money out of a bank account; to move back",
+   "examples": [
+    "I need to withdraw some cash."
+   ],
+   "collocations": [
+    "withdraw money",
+    "withdraw support"
+   ],
+   "tags": [
+    "starter",
+    "b1-b2"
+   ]
+  },
+  {
+   "word": "approach",
+   "translation": "подход",
+   "partOfSpeech": "n.",
+   "transcription": "/əˈprəʊtʃ/",
+   "definition": "a way of dealing with somebody/something",
+   "examples": [
+    "We need a new approach to the problem."
+   ],
+   "collocations": [
+    "different approach",
+    "take an approach"
+   ],
+   "tags": [
+    "starter",
+    "b1-b2"
+   ]
+  },
+  {
+   "word": "benefit",
+   "translation": "польза, выгода",
+   "partOfSpeech": "n.",
+   "transcription": "/ˈbenɪfɪt/",
+   "definition": "an advantage that something gives you",
+   "examples": [
+    "Regular exercise has many health benefits."
+   ],
+   "collocations": [
+    "health benefits",
+    "for the benefit of"
+   ],
+   "tags": [
+    "starter",
+    "b1-b2"
+   ]
+  },
+  {
+   "word": "challenge",
+   "translation": "вызов, трудная задача",
+   "partOfSpeech": "n.",
+   "transcription": "/ˈtʃælɪndʒ/",
+   "definition": "a new or difficult task that tests somebody's ability",
+   "examples": [
+    "Learning a language is a real challenge."
+   ],
+   "collocations": [
+    "face a challenge",
+    "rise to the challenge"
+   ],
+   "tags": [
+    "starter",
+    "b1-b2"
+   ]
+  },
+  {
+   "word": "consequence",
+   "translation": "последствие",
+   "partOfSpeech": "n.",
+   "transcription": "/ˈkɒnsɪkwəns/",
+   "definition": "a result of something that has happened",
+   "examples": [
+    "He acted without thinking about the consequences."
+   ],
+   "collocations": [
+    "serious consequences",
+    "as a consequence"
+   ],
+   "tags": [
+    "starter",
+    "b1-b2"
+   ]
+  },
+  {
+   "word": "evidence",
+   "translation": "доказательство, свидетельство",
+   "partOfSpeech": "n.",
+   "transcription": "/ˈevɪdəns/",
+   "definition": "facts or signs that show that something is true",
+   "examples": [
+    "There is no evidence that the drug is harmful."
+   ],
+   "collocations": [
+    "strong evidence",
+    "evidence suggests"
+   ],
+   "tags": [
+    "starter",
+    "b1-b2"
+   ]
+  },
+  {
+   "word": "issue",
+   "translation": "вопрос, проблема",
+   "partOfSpeech": "n.",
+   "transcription": "/ˈɪʃuː/",
+   "definition": "an important topic that people are discussing",
+   "examples": [
+    "Climate change is a global issue."
+   ],
+   "collocations": [
+    "key issue",
+    "raise an issue"
+   ],
+   "tags": [
+    "starter",
+    "b1-b2"
+   ]
+  },
+  {
+   "word": "opportunity",
+   "translation": "возможность",
+   "partOfSpeech": "n.",
+   "transcription": "/ˌɒpəˈtjuːnəti/",
+   "definition": "a time when a situation makes it possible to do something",
+   "examples": [
+    "This job is a great opportunity to travel."
+   ],
+   "collocations": [
+    "golden opportunity",
+    "take the opportunity"
+   ],
+   "tags": [
+    "starter",
+    "b1-b2"
+   ]
+  },
+  {
+   "word": "priority",
+   "translation": "приоритет",
+   "partOfSpeech": "n.",
+   "transcription": "/praɪˈɒrəti/",
+   "definition": "something that you think is more important than other things",
+   "examples": [
+    "Safety is our top priority."
+   ],
+   "collocations": [
+    "top priority",
+    "set priorities"
+   ],
+   "tags": [
+    "starter",
+    "b1-b2"
+   ]
+  },
+  {
+   "word": "purpose",
+   "translation": "цель, назначение",
+   "partOfSpeech": "n.",
+   "transcription": "/ˈpɜːpəs/",
+   "definition": "the intention or aim of something",
+   "examples": [
+    "What is the purpose of your visit?"
+   ],
+   "collocations": [
+    "main purpose",
+    "on purpose"
+   ],
+   "tags": [
+    "starter",
+    "b1-b2"
+   ]
+  },
+  {
+   "word": "trend",
+   "translation": "тенденция",
+   "partOfSpeech": "n.",
+   "transcription": "/trend/",
+   "definition": "a general direction in which a situation is developing",
+   "examples": [
+    "There is a growing trend towards working from home."
+   ],
+   "collocations": [
+    "growing trend",
+    "follow a trend"
+   ],
+   "tags": [
+    "starter",
+    "b1-b2"
+   ]
+  },
+  {
+   "word": "awareness",
+   "translation": "осознание, осведомлённость",
+   "partOfSpeech": "n.",
+   "transcription": "/əˈweənəs/",
+   "definition": "knowing that something exists and is important",
+   "examples": [
+    "The campaign aims to raise awareness of the disease."
+   ],
+   "collocations": [
+    "raise awareness",
+    "public awareness"
+   ],
+   "tags": [
+    "starter",
+    "b1-b2"
+   ]
+  },
+  {
+   "word": "insight",
+   "translation": "понимание, проницательность",
+   "partOfSpeech": "n.",
+   "transcription": "/ˈɪnsaɪt/",
+   "definition": "a clear understanding of a complex situation",
+   "examples": [
+    "The book gives a fascinating insight into his life."
+   ],
+   "collocations": [
+    "gain insight",
+    "valuable insight"
+   ],
+   "tags": [
+    "starter",
+    "b1-b2"
+   ]
+  },
+  {
+   "word": "drawback",
+   "translation": "недостаток",
+   "partOfSpeech": "n.",
+   "transcription": "/ˈdrɔːbæk/",
+   "definition": "a disadvantage or problem",
+   "examples": [
+    "The main drawback of the plan is the cost."
+   ],
+   "collocations": [
+    "major drawback",
+    "main drawback"
+   ],
+   "tags": [
+    "starter",
+    "b1-b2"
+   ]
+  },
+  {
+   "word": "give up",
+   "translation": "бросать, отказываться",
+   "partOfSpeech": "phr. v.",
+   "transcription": "/ɡɪv ʌp/",
+   "definition": "to stop doing or having something",
+   "examples": [
+    "I gave up smoking three years ago."
+   ],
+   "collocations": [
+    "give up hope",
+    "never give up"
+   ],
+   "tags": [
+    "starter",
+    "b1-b2"
+   ]
+  },
+  {
+   "word": "look forward to",
+   "translation": "с нетерпением ждать",
+   "partOfSpeech": "phr. v.",
+   "transcription": "/lʊk ˈfɔːwəd tə/",
+   "definition": "to be excited about something that is going to happen",
+   "examples": [
+    "I'm looking forward to the holidays."
+   ],
+   "collocations": [
+    "look forward to hearing",
+    "really look forward to"
+   ],
+   "tags": [
+    "starter",
+    "b1-b2"
+   ]
+  },
+  {
+   "word": "come up with",
+   "translation": "придумать, предложить",
+   "partOfSpeech": "phr. v.",
+   "transcription": "/kʌm ʌp wɪð/",
+   "definition": "to find or produce an idea or answer",
+   "examples": [
+    "She came up with a brilliant idea."
+   ],
+   "collocations": [
+    "come up with an idea",
+    "come up with a solution"
+   ],
+   "tags": [
+    "starter",
+    "b1-b2"
+   ]
+  },
+  {
+   "word": "figure out",
+   "translation": "понять, разобраться",
+   "partOfSpeech": "phr. v.",
+   "transcription": "/ˈfɪɡə(r) aʊt/",
+   "definition": "to understand or solve something by thinking",
+   "examples": [
+    "I can't figure out how this works."
+   ],
+   "collocations": [
+    "figure out a way",
+    "try to figure out"
+   ],
+   "tags": [
+    "starter",
+    "b1-b2"
+   ]
+  },
+  {
+   "word": "put off",
+   "translation": "откладывать",
+   "partOfSpeech": "phr. v.",
+   "transcription": "/pʊt ɒf/",
+   "definition": "to change something to a later time",
+   "examples": [
+    "Stop putting off your homework!"
+   ],
+   "collocations": [
+    "put off a decision",
+    "keep putting off"
+   ],
+   "tags": [
+    "starter",
+    "b1-b2"
+   ]
+  },
+  {
+   "word": "run out of",
+   "translation": "израсходовать, закончиться",
+   "partOfSpeech": "phr. v.",
+   "transcription": "/rʌn aʊt əv/",
+   "definition": "to use all of something so that none is left",
+   "examples": [
+    "We've run out of milk."
+   ],
+   "collocations": [
+    "run out of time",
+    "run out of money"
+   ],
+   "tags": [
+    "starter",
+    "b1-b2"
+   ]
+  },
+  {
+   "word": "take up",
+   "translation": "начать заниматься (хобби)",
+   "partOfSpeech": "phr. v.",
+   "transcription": "/teɪk ʌp/",
+   "definition": "to start a hobby or activity",
+   "examples": [
+    "He took up jogging last spring."
+   ],
+   "collocations": [
+    "take up a hobby",
+    "take up a sport"
+   ],
+   "tags": [
+    "starter",
+    "b1-b2"
+   ]
+  },
+  {
+   "word": "turn down",
+   "translation": "отклонять, отказывать",
+   "partOfSpeech": "phr. v.",
+   "transcription": "/tɜːn daʊn/",
+   "definition": "to reject or refuse an offer or request",
+   "examples": [
+    "She turned down the job offer."
+   ],
+   "collocations": [
+    "turn down an offer",
+    "turn down an invitation"
+   ],
+   "tags": [
+    "starter",
+    "b1-b2"
+   ]
+  },
+  {
+   "word": "deal with",
+   "translation": "иметь дело с, справляться",
+   "partOfSpeech": "phr. v.",
+   "transcription": "/diːl wɪð/",
+   "definition": "to take action to solve a problem",
+   "examples": [
+    "How do you deal with stress?"
+   ],
+   "collocations": [
+    "deal with a problem",
+    "deal with complaints"
+   ],
+   "tags": [
+    "starter",
+    "b1-b2"
+   ]
+  },
+  {
+   "word": "point out",
+   "translation": "указывать, обращать внимание",
+   "partOfSpeech": "phr. v.",
+   "transcription": "/pɔɪnt aʊt/",
+   "definition": "to mention something to give somebody information",
+   "examples": [
+    "He pointed out a mistake in my report."
+   ],
+   "collocations": [
+    "point out a mistake",
+    "be quick to point out"
+   ],
+   "tags": [
+    "starter",
+    "b1-b2"
+   ]
+  }
+ ]
+}
