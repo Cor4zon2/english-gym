@@ -7,6 +7,7 @@ import { csvToCards, cardsToCsv } from '../../lib/csv';
 import { dayKey } from '../../lib/dates';
 import { downloadFile, safeFileName } from '../../lib/download';
 import type { CardContent } from '../../types';
+import { ApkgImport } from './ApkgImport';
 
 const NEW_DECK = '__new__';
 
@@ -159,6 +160,8 @@ export function ImportExportPage() {
         )}
         {csvMsg && <p className="small">{csvMsg}</p>}
       </section>
+
+      <ApkgImport decks={decks} />
 
       <section className="panel stack">
         <h2 style={{ margin: 0 }}>Экспорт CSV</h2>
